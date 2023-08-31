@@ -1,0 +1,25 @@
+{
+	"name": "ambient-mode",
+	"version": "1.0.1",
+	"description": "",
+	"main": "dist/index.js",
+	"types": "dist/index.d.ts",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"build": "tsup"
+	},
+	"keywords": [],
+	"author": "akash1412",
+	"license": "ISC",
+	"files": [
+		"dist"
+	],
+	"devDependencies": {
+		"@types/react": "^18.2.21",
+		"@types/react-dom": "^18.2.7",
+		"react": "^18.2.0",
+		"react-dom": "^18.2.0",
+		"tsup": "^7.2.0",
+		"typescript": "^5.2.2"
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"splitting": true,
+	"sourcemap": true,
+	"clean": true,
+	"minify": true,
+	"entry": ["src/index.ts"],
+	"dts": true,
+	"outDir": "dist",
+	"format": ["esm", "cjs"],
+	"splitting": false,
+	"sourcemap": true,
+	"clean": true,
+	"minify": false
+}
